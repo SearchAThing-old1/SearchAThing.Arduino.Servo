@@ -1,4 +1,2 @@
 # SearchAThing.Arduino.Servo
-Arduino SRUDP Servo command library.
-
-Documentation available here https://searchathing.com/?p=831#servo
+Arduino [SRUDP Servo](https://github.com/devel0/SearchAThing.Arduino.Enc28j60#arduino-servo) command library.
